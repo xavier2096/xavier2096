@@ -8,4 +8,9 @@
 xavier2096/xavier2096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-                                                                                                        
+<!---
+Hola, soy Xavier
+Me interesa todo lo relacionado a lo digital
+Actualmente estoy aprendiendo a subir archivos y guardarlos para los proyectos  que estoy desarrollando
+--->
+
